@@ -22,7 +22,7 @@ int main(void){
    printf("%4s\n", "ab");
    printf("%4s\n", "abc");
 
-    return 0;
+   return 0; 
 
 }
 

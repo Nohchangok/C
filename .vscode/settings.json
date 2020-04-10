@@ -4,5 +4,6 @@
         "c": "cd $dir && gcc $fileName -o $fileNameWithoutExt && $dir$fileNameWithoutExt",
         "cpp": "cd $dir && g++ $fileName -o $fileNameWithoutExt && $dir$fileNameWithoutExt"
     },
+    "code-runner.runInTerminal": true,
     "terminal.integrated.shell.windows": "C:\\Windows\\sysnative\\cmd.exe"
 }
